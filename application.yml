@@ -1,7 +1,6 @@
 cf:
   butlers:
-    npike: cf-butler-silly-fox-yd.apps.keep-716898.cf-app.com
-    dhaka: cf-butler-responsible-bat-dl.apps.dhaka.cf-app.com
+    kuhn-labs: cf-butler.apps.tas-ndc.kuhn-labs.com
   sslValidationSkipped: true
 
 management:
